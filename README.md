@@ -17,7 +17,7 @@ Number of children enrolled in health insurance or number of relatives who smo
 Smoking area:
 Beneficiary residential areas in the United States include the Northeast, Southeast, Southwest, and Northwest. price:
 Individual treatment costs are billed by health insurance companies. Learning Outcomes:
- Exploratory data analysis  Practical statistics using Python  Hypothesis testing
+ Exploratory data analysis, Practical statistics using Python, Hypothesis testing
 
 the purpose:
 We want to dig deeper into this data and see if we can uncover any valuable insights. 
