@@ -1,4 +1,4 @@
-# Insurance
+# Linear Regression Analysis
 Data description:
 The data displayed includes medical expenses for individuals identified by certain characteristics.
 
@@ -20,4 +20,4 @@ Individual treatment costs are billed by health insurance companies. Learning 
  Exploratory data analysis, Practical statistics using Python, Hypothesis testing
 
 the purpose:
-We want to dig deeper into this data and see if we can uncover any valuable insights. 
+We want to dig deeper into this data and see if we can uncover any valuable insights. The analysis is between x and y. The independent variable being y and x being the dependent variable. There are a number of plots to explain this particular analysis.
